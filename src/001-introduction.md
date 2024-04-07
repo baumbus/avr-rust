@@ -7,12 +7,11 @@ advantage of Rust's safety guarantees and ergonomics.
 
 The following book describes what you need to know to use Rust with AVR support.
 
-The source code of this book can be [found on GitHub](https://github.com/avr-rust/book.avr-rust.com), pull requests are welcome.
+The source code of this book can be [found on GitHub](https://github.com/baumbus/avr-rust), pull requests are welcome.
 
 ## Resources and links
 
-  * [The source code of this book](https://github.com/avr-rust/book.avr-rust.com)
-  * [The AVR-Rust project homepage](https://www.avr-rust.com)
+  * [The source code of this book](https://github.com/baumbus/avr-rust)
   * [The AVR-Rust organization on GitHub](https://github.com/avr-rust)
   * [Known compiler issue list](https://github.com/rust-lang/rust/labels/O-AVR)
   * [Known compiler issue list (legacy, read only)](https://github.com/avr-rust/rust/issues)
